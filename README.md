@@ -3,4 +3,4 @@
 Name: Supicha Songpetchmongkol
 Current Standing: Junior
 College: Marshall
-Preference for Windows/Mac: Mac
+Preference for Windows/Mac: Mac 
